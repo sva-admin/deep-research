@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # deep-research
 
 Multi-source, citation-backed research. Fans out parallel web searches, keeps only authoritative sources, and writes a decision-grade brief where every claim carries a footnote.
