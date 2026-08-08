@@ -32,6 +32,10 @@ We teach this skill, start to finish, in a free lesson:
 
 [Deep research brief](https://loop.sv-academy.org/articles/deep-research-brief)
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ## More from Silicon Valley Academy
 
 - All of our published skills: [github.com/sva-admin/claude-skills](https://github.com/sva-admin/claude-skills)
